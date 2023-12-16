@@ -7,7 +7,7 @@ Também foi integrado ao aplicativo um sintetizador de voz para que, opcionalmen
 
 O aplicativo também conta com uma integração a uma API de mensagens para WhatsApp, onde o usuário tem a opção de escrever uma mensagem padrão e, selecionando determinado número, é enviada a mensagem + a lista de sites que estão offline. 
 
-Projeto desenvolvido ao fim do bootcamp DecolaTech4 da Avanade Brasil, de maneira independentemente, mas como forma de agradecimento pela oportunidade de aprendizado.
+Projeto desenvolvido ao fim do bootcamp DecolaTech4 da Avanade Brasil, de maneira independente, mas como forma de agradecimento pela oportunidade de aprendizado.
 
 Foi utilizada a linguagem de programação C#, desenvolvido em WPF. Foram utilizados alguns pacotes de terceiros, disponíveis para consulta no repositório do projeto. Foram utilizados conceitos de Classe, Expressões Regulares, Controles de Fluxo, Assincronismo, requisições HTTP, dentre outros.
 
