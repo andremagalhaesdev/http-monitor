@@ -3,7 +3,7 @@
 
 Um aplicativo que monitora até 5 sites, disparando requisições HTTP a cada 10 minutos ou quando pressionado o botão "Atualizar", retornando o status do site.
 
-Também foi integrado ao aplicativo um sintetizador de voz para que, opcionalmente, a cada atualização seja falado os sites que estejam offlines. 
+Também foi integrado ao aplicativo um sintetizador de voz para que, opcionalmente, a cada atualização seja falado os sites que estejam offline. 
 
 O aplicativo também conta com uma integração a uma API de mensagens para WhatsApp, onde o usuário tem a opção de escrever uma mensagem padrão e, selecionando determinado número, é enviada a mensagem + a lista de sites que estão offline. 
 
