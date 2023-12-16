@@ -5,6 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using dotenv.net;
 using RestSharp;
+using System;
+using System.Collections.ObjectModel;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Threading;
 
 namespace HTTPMonitor
 {
@@ -31,6 +36,7 @@ namespace HTTPMonitor
             }
             catch (Exception ex)
             {
+                MessageBox.Show($"Um erro foi detectado! {ex}");
             }
         }
     }
