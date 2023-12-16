@@ -13,7 +13,7 @@
         MouseDown="Window_MouseDown">
     <Border CornerRadius="50">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\André Magalhães\Desktop\PROJETOS\PROJETOS C# (.NET)\http-monitor\HTTPMonitor\Images\background2.png"/>
+            <ImageBrush ImageSource="C:\Users\André Magalhães\Desktop\PROJETOS\PROJETOS C# (.NET)\http-monitor\HTTPMonitor\http-monitor\Images\background2.png"/>
         </Border.Background>
         <Border CornerRadius="50" BorderThickness="5" Opacity="0.9">
             <Border.BorderBrush>
