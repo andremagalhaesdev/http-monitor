@@ -1,0 +1,32 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.user
+*.suo
+*.bak
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache e de dependências
+*.vs/
+*.psess/
+*.cache
+
+# Arquivos de configuração de usuário
+App.config.user
+
+# Arquivos de publicação/pacote
+*.publish.xml
+*.pfx
+
+# Arquivos de projeto específicos do Visual Studio
+*.csproj.user
+*.sln.docstates
+*.suo
+*.user
+
+# Arquivos de histórico de sessão do Windows
+*.lastbuild
